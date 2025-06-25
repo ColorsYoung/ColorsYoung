@@ -18,7 +18,7 @@ Programmer | Backend Developer | Document Automation Enthusiast
 
 ---
 
-## 🛠️ เทคโนโลยีและเครื่องมือ
+## 🛠️ Technology
 
 ### Frontend
 <p align="left">
