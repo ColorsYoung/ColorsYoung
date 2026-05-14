@@ -1,24 +1,24 @@
 สวัสดีครับ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ผมชื่อ ชาญชัย ชาคำ
 =========================================================================================================================
 
-👨‍💻 โปรแกรมเมอร์ | นักพัฒนาระบบหลังบ้าน | สนใจระบบอัตโนมัติด้านเอกสาร  
+โปรแกรมเมอร์ | นักพัฒนาระบบหลังบ้าน | สนใจระบบอัตโนมัติด้านเอกสาร  
 Programmer | Backend Developer | Document Automation Enthusiast
 
 ---
 
-## 🚀 เกี่ยวกับผม
+##  เกี่ยวกับผม
 
 ผมเป็นนักพัฒนาซอฟต์แวร์ที่หลงใหลในการสร้างระบบที่ช่วยทำให้การทำงานกับเอกสารเป็นเรื่องง่ายและอัตโนมัติ กำลังเรียนรู้และพัฒนาแอปพลิเคชันด้วยเทคโนโลยีสมัยใหม่ เช่น React.js, Node.js และระบบ Cloud
 
-- 🌍  **ที่อยู่**: กรุงเทพฯ ประเทศไทย  
-- ✉️  **ติดต่อ**: [Chanchaichakam1997@gmail.com](mailto:Chanchaichakam1997@gmail.com)  
-- 🧠  **กำลังศึกษา**: AI อ่านเอกสาร (Document AI), การจัดเก็บไฟล์ด้วย Azure Blob, และระบบตรวจสอบข้อมูลข้ามเอกสาร  
-- 💼  **เป้าหมาย**: สร้างระบบที่ช่วยให้องค์กรประมวลผลเอกสารได้อย่างมีประสิทธิภาพ
-- 🎯  **ความเชี่ยวชาญ**: Backend Development, Document Processing, Cloud Architecture
+- **ที่อยู่**: กรุงเทพฯ ประเทศไทย  
+- **ติดต่อ**: [Chanchaichakam1997@gmail.com](mailto:Chanchaichakam1997@gmail.com)  
+- **กำลังศึกษา**: AI อ่านเอกสาร (Document AI), การจัดเก็บไฟล์ด้วย Azure Blob, และระบบตรวจสอบข้อมูลข้ามเอกสาร  
+- **เป้าหมาย**: สร้างระบบที่ช่วยให้องค์กรประมวลผลเอกสารได้อย่างมีประสิทธิภาพ
+- **ความเชี่ยวชาญ**: Backend Development, Document Processing, Cloud Architecture
 
 ---
 
-## 🛠️ Technology
+## Technology
 
 ### Frontend
 <p align="left">
@@ -67,54 +67,54 @@ Programmer | Backend Developer | Document Automation Enthusiast
 
 ---
 
-## 🧩 โปรเจกต์ปัจจุบัน
+## โปรเจกต์ปัจจุบัน
 
-### 📄 Smart Document Processing System
+### Smart Document Processing System
 ระบบประมวลผลเอกสารอัจฉริยะที่รวมเทคโนโลยี AI และ Cloud
-- **🔧 เทคโนโลยี: Node.js, Azure Cognitive Services, Prisma ORM
-- **✨ ฟีเจอร์หลัก**:
+- ** เทคโนโลยี: Node.js, Azure Cognitive Services, Prisma ORM
+- ** ฟีเจอร์หลัก**:
   - อัปโหลดและแยกหน้า PDF อัตโนมัติบน Azure Blob Storage
   - เชื่อมต่อ OCR และ AI Classifier เพื่ออ่านข้อมูลจากเอกสาร
   - ระบบตรวจสอบค่าจากหลายหน้าและเอกสารที่เกี่ยวข้อง
   - Validation pipeline ที่ยืดหยุ่น และสามารถกำหนดสูตรได้ตามประเภทเอกสาร
-- **🎯 เป้าหมาย**: ลดเวลาการประมวลผลเอกสารจาก manual ให้เหลือ 80%
+- ** เป้าหมาย**: ลดเวลาการประมวลผลเอกสารจาก manual ให้เหลือ 80%
 
-### 🔄 Document Workflow Automation
+### Document Workflow Automation
 ระบบจัดการ workflow สำหรับเอกสารขององค์กร
-- **📊 ผลลัพธ์**: เพิ่มประสิทธิภาพการทำงาน 60%
-- **🔐 ความปลอดภัย**: รองรับ Role-based Access Control
-- **📈 Analytics**: Dashboard สำหรับติดตามสถิติการใช้งาน
+- ** ผลลัพธ์**: เพิ่มประสิทธิภาพการทำงาน 60%
+- ** ความปลอดภัย**: รองรับ Role-based Access Control
+- ** Analytics**: Dashboard สำหรับติดตามสถิติการใช้งาน
 
 ---
 
-## 💡 ความสามารถพิเศษ
+## ความสามารถพิเศษ
 
-- **🤖 AI Integration**: ประสบการณ์ในการนำ AI มาใช้ในการประมวลผลเอกสาร
-- **☁️ Cloud Architecture**: ออกแบบระบบบน Azure Cloud Platform
-- **🔄 API Development**: สร้าง RESTful API ที่มีประสิทธิภาพและปลอดภัย
-- **📊 Database Design**: ออกแบบฐานข้อมูลสำหรับระบบที่มีปริมาณข้อมูลมาก
-- **🧪 Testing**: เขียน Unit Test และ Integration Test ด้วย Jest
-
----
-
-## 🌱 กำลังเรียนรู้
-
-- **🤖 Machine Learning**: TensorFlow.js สำหรับการประมวลผลเอกสารด้วย AI
-- **🏗️ Microservices**: การออกแบบระบบแบบ Microservices บน Kubernetes
-- **🔍 Search Technology**: Elasticsearch สำหรับการค้นหาข้อมูลในเอกสาร
-- **📱 Mobile Development**: React Native สำหรับแอปพลิเคชันมือถือ
+- ** AI Integration**: ประสบการณ์ในการนำ AI มาใช้ในการประมวลผลเอกสาร
+- ** Cloud Architecture**: ออกแบบระบบบน Azure Cloud Platform
+- ** API Development**: สร้าง RESTful API ที่มีประสิทธิภาพและปลอดภัย
+- ** Database Design**: ออกแบบฐานข้อมูลสำหรับระบบที่มีปริมาณข้อมูลมาก
+- ** Testing**: เขียน Unit Test และ Integration Test ด้วย Jest
 
 ---
 
-## 🎯 เป้าหมายอนาคต
+## กำลังเรียนรู้
 
-- **💼 ระยะสั้น**: พัฒนาระบบ Document AI ให้สามารถประมวลผลเอกสารไทยได้อย่างแม่นยำ
-- **🚀 ระยะกลาง**: สร้าง Platform สำหรับการจัดการเอกสารขององค์กรขนาดใหญ่
-- **🌟 ระยะยาว**: ก่อตั้ง Startup ที่เน้นการพัฒนาเทคโนโลยี Document Automation
+- ** Machine Learning**: TensorFlow.js สำหรับการประมวลผลเอกสารด้วย AI
+- ** Microservices**: การออกแบบระบบแบบ Microservices บน Kubernetes
+- ** Search Technology**: Elasticsearch สำหรับการค้นหาข้อมูลในเอกสาร
+- ** Mobile Development**: React Native สำหรับแอปพลิเคชันมือถือ
 
 ---
 
-## 📫 ติดต่อผม
+## เป้าหมายอนาคต
+
+- ** ระยะสั้น**: พัฒนาระบบ Document AI ให้สามารถประมวลผลเอกสารไทยได้อย่างแม่นยำ
+- ** ระยะกลาง**: สร้าง Platform สำหรับการจัดการเอกสารขององค์กรขนาดใหญ่
+- ** ระยะยาว**: ก่อตั้ง Startup ที่เน้นการพัฒนาเทคโนโลยี Document Automation
+
+---
+
+## ติดต่อผม
 
 <p align="left">
   <a href="mailto:Chanchaichakam1997@gmail.com">
@@ -130,13 +130,13 @@ Programmer | Backend Developer | Document Automation Enthusiast
 
 
 
-## 🏆 Achievement & Interests
+## Achievement & Interests
 
-- **📚 การเรียนรู้ต่อเนื่อง**: ติดตามเทคโนโลยีใหม่ๆ ในด้าน AI และ Cloud Computing
-- **🎤 Knowledge Sharing**: ชอบแบ่งปันความรู้ในชุมชน Developer
-- **🤝 Team Collaboration**: มีประสบการณ์ทำงานเป็นทีมในโปรเจกต์ขนาดใหญ่
-- **💪 Problem Solving**: หลงใหลในการแก้ปัญหาที่ซับซ้อนด้วยเทคโนโลยี
+- ** การเรียนรู้ต่อเนื่อง**: ติดตามเทคโนโลยีใหม่ๆ ในด้าน AI และ Cloud Computing
+- ** Knowledge Sharing**: ชอบแบ่งปันความรู้ในชุมชน Developer
+- ** Team Collaboration**: มีประสบการณ์ทำงานเป็นทีมในโปรเจกต์ขนาดใหญ่
+- ** Problem Solving**: หลงใหลในการแก้ปัญหาที่ซับซ้อนด้วยเทคโนโลยี
 
 ---
 
-*"เทคโนโลยีคือเครื่องมือที่ช่วยให้เราสร้างสิ่งที่ดีขึ้นสำหรับโลก"* 🌟
+*"เทคโนโลยีคือเครื่องมือที่ช่วยให้เราสร้างสิ่งที่ดีขึ้นสำหรับโลก"*
